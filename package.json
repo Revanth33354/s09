@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Revanth33354.github.io/s09",
+  "homepage": "https://github.com/Revanth33354/s09.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
